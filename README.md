@@ -1,5 +1,5 @@
 # AI Portfolio — Lucas
-
+Live now on: https://ai-rag-wine.vercel.app/
 A fast, dark/techy personal portfolio built with **React + Vite + Tailwind CSS**.
 Single-page, fully responsive, animated on scroll, zero backend.
 
