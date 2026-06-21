@@ -1,4 +1,4 @@
-# RAG Engine
+## RAG Engine
 
 A fast, modern personal portfolio for an AI/ML student — built as a single-page
 React application with a dark, "techy" aesthetic. It presents who I am, the
